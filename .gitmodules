@@ -1,6 +1,3 @@
-[submodule "u-resnet"]
-	path = u-resnet
-	url = git@github.com:DeepLearnPhysics/u-resnet.git
 [submodule "dynamic-gcnn"]
 	path = dynamic-gcnn
 	url = git@github.com:yee379/dynamic-gcnn.git
